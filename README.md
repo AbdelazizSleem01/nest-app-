@@ -26,6 +26,32 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+# Currency Nest.js App
+
+This is a Currency Nest.js app that provides CRUD (Create, Read, Update, Delete) operations for managing currencies.
+
+## Features
+
+- Create a new currency with details such as name, code, and symbol.
+- Retrieve a list of all currencies.
+- Retrieve a specific currency by its ID.
+- Update an existing currency with new details.
+- Delete a currency by its ID.
+
+## Technologies Used
+
+- Nest.js: A progressive Node.js framework for building efficient and scalable server-side applications.
+- TypeORM: An Object-Relational Mapping (ORM) library for TypeScript that simplifies database interactions.
+- PostgreSQL: A powerful open-source relational database management system.
+- TypeScript: A statically-typed superset of JavaScript that adds optional types and other features.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/currency-nest-app.git
+
 ## Installation
 
 ```bash
@@ -69,6 +95,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
-
+Feel free to modify and customize this template according to your specific app and requirements.
 Nest is [MIT licensed](LICENSE).
 # nest-app-
