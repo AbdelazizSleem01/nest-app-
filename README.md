@@ -50,7 +50,7 @@ This is a Currency Nest.js app that provides CRUD (Create, Read, Update, Delete)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-nest-app.git
+   git clone https://github.com/AbdelazizSleem01/nest-app-.git
 
 ## Installation
 
